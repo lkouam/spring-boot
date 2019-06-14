@@ -13,4 +13,4 @@ mvn spring-boot:run
 
 3. open browser at 
 
-http://localhost:8080/time
+http://localhost:8080/localtime
